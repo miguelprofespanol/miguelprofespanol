@@ -6,6 +6,7 @@ Soy **profesor de español** y creador de contenido en **Espablando**. Comparto 
 
 ## Aviso importante
 Este perfil de **GitHub es temporal**: uso este espacio como **respaldo/organización**
+
 ✅ **La versión final y pública de los contenidos se publicará en mi web (WordPress):**  
 🌐 https://espablando.wordpress.com/
 
