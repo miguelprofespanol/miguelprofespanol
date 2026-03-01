@@ -2,7 +2,7 @@
 
 # Hola, soy Miguel 👋
 
-Soy **profesor de español** y creador de contenido en **Espablando**. Comparto recursos, actividades y materiales para aprender español de forma práctica.
+Soy **profesor de español** y creador de contenido en [![Instagram](https://img.shields.io/badge/Instagram-espablando-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/espablando/). Comparto recursos, actividades y materiales para aprender español de forma práctica.
 
 ## Aviso importante
 Este perfil de **GitHub es temporal**: uso este espacio como **respaldo/organización**
