@@ -23,3 +23,5 @@ Este perfil de **GitHub es temporal**: uso este espacio como **respaldo/organiza
 
 ## Contacto
 Para colaboraciones, clases o materiales, puedes escribirme por **Instagram** o **LinkedIn**.
+
+Los invito a leer el poemario disponible en Amazon: https://a.co/d/0Q1hKuZ: Si te disfruto ahora
